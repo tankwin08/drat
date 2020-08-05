@@ -17,5 +17,5 @@ Version: 0.0.31
 Depends: R (>= 3.2.0)
 Suggests: testthat, knitr, rmarkdown
 License: GPL (>= 2)
-MD5sum: 410bf388493702a07460d1b2c7ee107e
+MD5sum: 5266e8c9fea93a5bb526811c614f6e1a
 NeedsCompilation: yes
